@@ -7,4 +7,4 @@ open sketch_feb17a.pde!
 
 Music written and produced by me but can be changed the mp3 source.
 Import the mp3 file into your folder.
-Adpt the code accordingly on line 21.
+Adapt the code accordingly on line 21.
